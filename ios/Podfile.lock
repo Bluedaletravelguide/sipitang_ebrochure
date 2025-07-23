@@ -1,0 +1,40 @@
+PODS:
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - pdfx (1.0.0):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+  - pdfx (from `.symlinks/plugins/pdfx/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+EXTERNAL SOURCES:
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+  pdfx:
+    :path: ".symlinks/plugins/pdfx/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  device_info_plus: c6fb39579d0f423935b0c9ce7ee2f44b71b9fce6
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  pdfx: 7b876b09de8b7a0bf444a4f82b439ffcff4ee1ec
+  url_launcher_ios: 68d46cc9766d0c41dbdc884310529557e3cd7a86
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.14.2

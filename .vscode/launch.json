@@ -1,0 +1,23 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LaunchImage.png",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "LaunchImage@2x.png (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "LaunchImage@3x.png (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
