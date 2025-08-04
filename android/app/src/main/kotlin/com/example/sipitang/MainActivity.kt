@@ -1,4 +1,4 @@
-package my.com.Sipitang
+package my.com.sipitang
 
 import io.flutter.embedding.android.FlutterActivity
 
